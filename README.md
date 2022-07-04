@@ -3,11 +3,6 @@ title: Test Markdown
 description: A description
 ---
 
-Heading 1
-=========
-
-Heading 2
----------
 
 __Advertisement :)__
 
